@@ -1,0 +1,25 @@
+body {
+  background-color: lightblue;
+  font-family: Verdana, Arial, sans-serif;
+}
+
+a {
+  text-decoration: none
+}
+
+a:link, a:visited {
+  color: blue;
+}
+
+a:hover {
+  color: dark blue;
+  text-decoration: underline
+}
+
+p {
+  color: darkblue;
+}
+
+h1 {
+  color: blue;
+}
